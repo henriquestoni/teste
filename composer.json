@@ -14,7 +14,7 @@
         "phpmailer/phpmailer": "~6.1"
     },
     "config": {
-        "vendor-dir": "abaco"
+        "vendor-dir": "lib-folder"
     },
     "autoload": {
         "psr-4": {
